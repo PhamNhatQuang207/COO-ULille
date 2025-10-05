@@ -1,5 +1,3 @@
-package TD2;
-
 import java.util.Random;
 
 public class JackpotBlock extends Block {

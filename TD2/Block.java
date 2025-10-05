@@ -1,5 +1,3 @@
-package TD2;
-
 public abstract class Block {
     public static final int NB_COINS = 1;
     protected int nbCoins;

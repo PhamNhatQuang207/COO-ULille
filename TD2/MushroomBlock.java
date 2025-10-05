@@ -1,5 +1,3 @@
-package TD2;
-
 public class MushroomBlock extends Block {
     public MushroomBlock() {
         super();

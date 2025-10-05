@@ -1,4 +1,3 @@
-package TD2;
 public class PoisonBlock extends Block {
     public PoisonBlock() {
         super();

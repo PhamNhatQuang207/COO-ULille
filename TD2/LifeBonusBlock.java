@@ -1,5 +1,3 @@
-package TD2;
-
 public class LifeBonusBlock extends Block {
     public LifeBonusBlock() {
         super();

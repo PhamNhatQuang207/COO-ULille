@@ -1,5 +1,3 @@
-package TD2;
-
 public class Player {
     public static final int START_LIVES = 3;
     public static final int START_RESISTANCE = 1;

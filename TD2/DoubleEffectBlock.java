@@ -1,5 +1,3 @@
-package TD2;
-
 public class DoubleEffectBlock extends Block {
     private Block block;
 
