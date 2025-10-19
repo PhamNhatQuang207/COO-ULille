@@ -1,0 +1,6 @@
+Goods.class
+AirShipment.class
+RoadShipment.class
+FluvialShipment.class
+UrgentAirShipment.class
+Shipment.class
