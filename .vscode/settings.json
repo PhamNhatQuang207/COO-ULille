@@ -1,3 +1,5 @@
 {
-  "java.project.sourcePaths": ["TD1", "TD2"]
+  "java.project.sourcePaths": ["TD1", "TD2", "TD4/src"],
+  "java.compile.nullAnalysis.mode": "disabled",
+  "java.errors.incompleteClasspath.severity": "ignore"
 }
