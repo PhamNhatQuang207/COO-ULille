@@ -1,3 +1,5 @@
+package TD4.AccessStrategy;
+import TD4.Person.Person;
 public class OpenAccess implements AccessStrategy {
    public static final String DESCRIPTION = "Free access for everyone";
    public OpenAccess() {

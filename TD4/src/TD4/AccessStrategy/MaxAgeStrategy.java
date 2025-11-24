@@ -1,3 +1,5 @@
+package TD4.AccessStrategy;
+import TD4.Person.Person;
 public class MaxAgeStrategy implements AccessStrategy {
     public static final String DESCRIPTION = "Maximum age access strategy";
     private int maxAge;
