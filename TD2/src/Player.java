@@ -4,11 +4,17 @@ public class Player {
     private int nbLives;
     private int resistance;
     private int nbPoints;
-    public static final Player MARIO = new Player();
+    public static Player instance;
     private Player() {
         this.nbLives = START_LIVES;
         this.resistance = START_RESISTANCE;
         this.nbPoints = 0;
+    }
+    public static Player getInstance() {
+        if (instance == null) {
+            instance = new Player();
+        }
+        return instance;
     }
     public int getNbLives() {
         return this.nbLives;
